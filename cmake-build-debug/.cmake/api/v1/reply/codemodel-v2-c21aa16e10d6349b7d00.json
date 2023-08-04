@@ -1,0 +1,330 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.6"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Unreal",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "FakeTarget::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-FakeTarget-Debug-b96e57991abe6819a742.json",
+					"name" : "FakeTarget",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Project::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Project-Debug-3a5d24b8731bb372bad8.json",
+					"name" : "Project",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Project-IOS::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Project-IOS-Debug-a8df669dc3d56540ed53.json",
+					"name" : "Project-IOS",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Project-IOS-DebugGame::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Project-IOS-DebugGame-Debug-b134815142114474ccc4.json",
+					"name" : "Project-IOS-DebugGame",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Project-IOS-Shipping::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Project-IOS-Shipping-Debug-4db69c700f05f46f6b14.json",
+					"name" : "Project-IOS-Shipping",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Project-Mac-DebugGame::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Project-Mac-DebugGame-Debug-90ff9003f1d55d1140b6.json",
+					"name" : "Project-Mac-DebugGame",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Project-Mac-Shipping::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Project-Mac-Shipping-Debug-6b2665520f7398aabc70.json",
+					"name" : "Project-Mac-Shipping",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Project-TVOS::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Project-TVOS-Debug-80f447ef00d9f108f8a3.json",
+					"name" : "Project-TVOS",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Project-TVOS-DebugGame::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Project-TVOS-DebugGame-Debug-e817e1f7c4fc86155914.json",
+					"name" : "Project-TVOS-DebugGame",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Project-TVOS-Shipping::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Project-TVOS-Shipping-Debug-b34458e424714c059b00.json",
+					"name" : "Project-TVOS-Shipping",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ProjectEditor::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ProjectEditor-Debug-5c4f1a9ea6039b004c69.json",
+					"name" : "ProjectEditor",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ProjectEditor-IOS::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ProjectEditor-IOS-Debug-e6f84c341d301534f03e.json",
+					"name" : "ProjectEditor-IOS",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ProjectEditor-IOS-DebugGame::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ProjectEditor-IOS-DebugGame-Debug-4af5442829662b7a0d2c.json",
+					"name" : "ProjectEditor-IOS-DebugGame",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ProjectEditor-IOS-Shipping::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ProjectEditor-IOS-Shipping-Debug-1e9041a4e5ca12e5eb94.json",
+					"name" : "ProjectEditor-IOS-Shipping",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ProjectEditor-Mac-DebugGame::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ProjectEditor-Mac-DebugGame-Debug-ca0c465edd0ed72f712a.json",
+					"name" : "ProjectEditor-Mac-DebugGame",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ProjectEditor-Mac-Shipping::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ProjectEditor-Mac-Shipping-Debug-7c83bc85d8a5a98751e8.json",
+					"name" : "ProjectEditor-Mac-Shipping",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ProjectEditor-TVOS::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ProjectEditor-TVOS-Debug-4720acc55461d6fc1904.json",
+					"name" : "ProjectEditor-TVOS",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ProjectEditor-TVOS-DebugGame::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ProjectEditor-TVOS-DebugGame-Debug-e52dfa507c0bf818d847.json",
+					"name" : "ProjectEditor-TVOS-DebugGame",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ProjectEditor-TVOS-Shipping::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ProjectEditor-TVOS-Shipping-Debug-a7251432c32afb4d4109.json",
+					"name" : "ProjectEditor-TVOS-Shipping",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "UnrealEditor::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-UnrealEditor-Debug-cfc9c3ddbe1e8881bd15.json",
+					"name" : "UnrealEditor",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "UnrealEditor-Mac-DebugGame::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-UnrealEditor-Mac-DebugGame-Debug-c2232430c939be59a257.json",
+					"name" : "UnrealEditor-Mac-DebugGame",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "UnrealEditor-Mac-Shipping::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-UnrealEditor-Mac-Shipping-Debug-d17c9b743b1e4b3371d1.json",
+					"name" : "UnrealEditor-Mac-Shipping",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "UnrealGame::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-UnrealGame-Debug-1f827145024a3bdea524.json",
+					"name" : "UnrealGame",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "UnrealGame-IOS::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-UnrealGame-IOS-Debug-57e4bfd5471feeaced8e.json",
+					"name" : "UnrealGame-IOS",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "UnrealGame-IOS-DebugGame::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-UnrealGame-IOS-DebugGame-Debug-2ad69711047cf08fab2d.json",
+					"name" : "UnrealGame-IOS-DebugGame",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "UnrealGame-IOS-Shipping::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-UnrealGame-IOS-Shipping-Debug-63918c88595dc2097801.json",
+					"name" : "UnrealGame-IOS-Shipping",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "UnrealGame-Mac-DebugGame::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-UnrealGame-Mac-DebugGame-Debug-a4e64d5f50be0d4be78b.json",
+					"name" : "UnrealGame-Mac-DebugGame",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "UnrealGame-Mac-Shipping::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-UnrealGame-Mac-Shipping-Debug-8127ff100db58b029867.json",
+					"name" : "UnrealGame-Mac-Shipping",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "UnrealGame-TVOS::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-UnrealGame-TVOS-Debug-8f28aa43c88746a6ade6.json",
+					"name" : "UnrealGame-TVOS",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "UnrealGame-TVOS-DebugGame::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-UnrealGame-TVOS-DebugGame-Debug-25955b145357d695f79b.json",
+					"name" : "UnrealGame-TVOS-DebugGame",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "UnrealGame-TVOS-Shipping::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-UnrealGame-TVOS-Shipping-Debug-a93148a784f82794fb11.json",
+					"name" : "UnrealGame-TVOS-Shipping",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/carlosmedeiros/repo/cube/Project/cmake-build-debug",
+		"source" : "/Users/carlosmedeiros/repo/cube/Project"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
