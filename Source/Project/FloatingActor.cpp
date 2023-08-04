@@ -3,11 +3,11 @@
 #include "FloatingActor.h"
 #include <iostream>
 #include <cstdint>
-#include "../icp-client-cpp/lib-agent-c/inc/zondax_ic.h"
-#include "../icp-client-cpp/lib-agent-cpp/inc/agent.h"
-#include "../icp-client-cpp/lib-agent-cpp/inc/helper.h"
-#include "../icp-client-cpp/lib-agent-cpp/inc/idl_value.h"
-#include "../icp-client-cpp/examples-cpp/counter/declarations/counter/counter.hpp"
+#include "../deps/icp-client-cpp/lib-agent-c/inc/zondax_ic.h"
+#include "../deps/icp-client-cpp/lib-agent-cpp/inc/agent.h"
+#include "../deps/icp-client-cpp/lib-agent-cpp/inc/helper.h"
+#include "../deps/icp-client-cpp/lib-agent-cpp/inc/idl_value.h"
+#include "../deps/icp-client-cpp/examples-cpp/counter/declarations/counter/counter.hpp"
 #include "Paths.h"
 using namespace zondax;
 // Sets default values
