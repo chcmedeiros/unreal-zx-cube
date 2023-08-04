@@ -1,0 +1,3 @@
+[submodule "deps/icp-client-cpp"]
+	path = deps/icp-client-cpp
+	url = https://github.com/Zondax/icp-client-cpp.git
